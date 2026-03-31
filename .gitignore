@@ -1,0 +1,20 @@
+# SDLC Project Pipeline Orchestrator Exclusions
+GEMINI.md
+.idea/
+references/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+.pytest_cache/
+.coverage
+htmlcov/
+test.db
+
+# Poetry
+.venv/
+dist/
+build/
